@@ -1,0 +1,100 @@
+{ "items":[
+    {"sys": {"id": "1"},
+    "fields":{
+        "title":"brocolli",
+        "price": 10.99,
+        "image":{
+            "fields":{ "file":{
+                "url":"./images/brocolli.jpg"
+            } } }
+
+    }
+
+    },{
+        "sys": {"id": "2"},
+    "fields":{
+        "title":"banana",
+        "price": 1.05,
+        "image":{"fields":{
+            "url":"./images/banana.jpeg"} }
+ }
+     
+        },{
+            "sys": {"id": "3"},
+            "fields":{
+                "title":"watermelon",
+                "price": 3.50,
+                "image":{"fields":{
+                    "url":"./images/watermelon.jpg"} }
+        }
+    },
+    {
+        "sys": {"id":"4"},
+        "fields":{
+            "title":"tomatoes",
+            "price":2.25,
+            "image":{
+                "fields":{
+                    "url":"./images/tomatoes.jpg"
+                }
+            }
+
+        }
+    },{
+        "sys":{"id":"5"
+        },
+        "fields":{
+            "title":"casavaleaves",
+            "price":4.00,
+            "image":{
+                "fields":{
+                    "url":"./images/casavaleaves.jpg"
+                }
+            }
+        }
+    },
+    {
+        "sys":{"id":"6"},
+        "fields":{
+            "title":"cabbage",
+            "price": 2.35,
+            "image":{
+                "fields":{
+                    "url":"./images/cabbage.jpg"
+                }
+            }
+        }
+            
+        },{"sys":{"id":"7"},
+         "fields":{
+             "title":"Pineaple.jpg",
+             "price": 6.59,
+             "image":{
+                 "fields":{
+                     "url":"./images/Pineaple.jpg"
+                 }
+
+             }
+         }
+
+        },
+        {"sys":{"id":"8"},
+         "fields":{
+             "title":"eggplants",
+             "price": 4.75,
+             "image":{
+                 "fields":{
+                     "url":"./images/EggPlant.jpg"
+                 }
+             }
+         }
+
+        }
+       ]
+    }
+        
+
+    
+
+
+
